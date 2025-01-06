@@ -53,27 +53,18 @@ Trained a churn model using different ML and deep learning algorithms and deploy
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:abayomialliayomide@gmail.com">abayomialliayomide@gmail.com</a></td>
     </tr>
-    <tr>
-      <td>📞</td>
-      <td>(234) 816-763-7212</td>
-    </tr>
-    <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
-    </tr>
-    <tr>
-      <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td>France</td>
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
+      <td><a href="http://www.linkedin.com/in/ayomide-abayomi-alli/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+      <td>💻</td>
+      <td><a href="https://github.com/Premee12">GitHub</a></td>
     </tr>
   </tbody>
 </table>
