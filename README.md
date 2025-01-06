@@ -13,7 +13,7 @@ Developed a segmentation model targeting female SMEs, achieving a **1,428% growt
 🌟 **Delivering Scalable Solutions**  
 Designed and deployed the AI chatbot, reducing turnaround time for **2,000+ staff** and cutting operational expenses while improving internal efficiency and **customer satisfaction scores by 48%**.
 
-## MY PORTFOLIO 
+## PROJECTS 
 
 *A glimpse of some of the projects I've worked on.*
 
@@ -21,16 +21,13 @@ Designed and deployed the AI chatbot, reducing turnaround time for **2,000+ staf
 ![image](image.png)
 
 Built a sentiment analysis solution using Flask to create a web API for real-time sentiment prediction and bulk analysis through CSV file uploads. This solution provides actionable insights into customer sentiment, enabling better understanding and improvement of business strategies.
-
 [Project Link](https://github.com/Premee12/NLP-sentiment-analysis-prediction.git)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Customer Churn Analysis Using SQL**
 
 ![image](2 anietie etuk data analytics sales project.jpg)
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
-
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+Utilized Advanced SQL techniques to extract insights from multi-year customer data to identify churn patterns and the factors influencing customer attrition.  [Project Link](https://github.com/Premee12/Tel-Customer-Churn-SQL-Project.git)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
