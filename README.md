@@ -55,6 +55,7 @@ Trained a churn model using different ML and deep learning algorithms and deploy
       <td>📧</td>
       <td><a href="mailto:abayomialliayomide@gmail.com">abayomialliayomide@gmail.com</a></td>
     </tr>
+    <tr>
       <td>📍</td>
       <td>France</td>
     </tr>
