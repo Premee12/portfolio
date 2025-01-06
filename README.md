@@ -21,20 +21,20 @@ Designed and deployed the AI chatbot, reducing turnaround time for **2,000+ staf
 ![image](image.png)
 
 Built a sentiment analysis solution using Flask to create a web API for real-time sentiment prediction and bulk analysis through CSV file uploads. This solution provides actionable insights into customer sentiment, enabling better understanding and improvement of business strategies.
-Tools Used: Python, Flask, XGBoost, SHAP, NLTK, Pandas, Matplotlib, HTML/CSS
-[Project Link](https://github.com/Premee12/NLP-sentiment-analysis-prediction.git)
+Key Tools: Python, Flask, XGBoost, SHAP, NLTK, Pandas, Matplotlib, HTML/CSS
+*[Project Link](https://github.com/Premee12/NLP-sentiment-analysis-prediction.git)*
 
 **Customer Churn Analysis Using SQL**
 ![image](customer-churn-image.jpg)
 
 Utilized Advanced SQL techniques to extract insights from multi-year customer data to identify churn patterns and the factors influencing customer attrition.
-Tools Used: MySQL database
-[Project Link](https://github.com/Premee12/Tel-Customer-Churn-SQL-Project.git)
+Key Tools: MySQL database
+*[Project Link](https://github.com/Premee12/Tel-Customer-Churn-SQL-Project.git)*
 
 **Customer Churn Using Python**
 
 Trained a churn model using different ML and deep learning algorithms and deployed the most efficient based on evaluation criteria. 
-[Project Link](https://github.com/Premee12/Churn_project.git)
+*[Project Link](https://github.com/Premee12/Churn_project.git)*
 
 ## SKILLS 🛠️
 
@@ -45,3 +45,35 @@ Trained a churn model using different ML and deep learning algorithms and deploy
 | Flask                     | MS SQL Server           | Tableau                | Scikit-learn           | Reporting & Documentation    |
 | PyTorch                   | MySQL                   | Microsoft 365          | Keras & TensorFlow     | Postman                      |
 | Git                       | PostgresSQL             | Microsoft Power Apps   | Data Wrangling         | Latex                         |
+
+## CONTACT DETAILS
+
+*Let’s connect and see how we can make a difference together!*
+<table>
+  <tbody>
+    <tr>
+      <td>📧</td>
+      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td>📞</td>
+      <td>(234) 816-763-7212</td>
+    </tr>
+    <tr>
+      <td>📍</td>
+      <td>PH, Nigeria</td>
+    </tr>
+    <tr>
+      <td>⬇️</td>
+      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+    </tr>
+    <tr>
+      <td>🌐</td>
+      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
+    </tr>
+    <tr>
+      <td>📺</td>
+      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+    </tr>
+  </tbody>
+</table>
