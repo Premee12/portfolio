@@ -1,9 +1,8 @@
-<!--Section 1: Introduce yourself -->
 ## ABOUT ME
 
-Hi there! I am a data scientist with experience in machine learning, NLP, and predictive analytics. I have a proven track record of driving business outcomes in finance. I help businesses solve their challenges by delivering data-driven solutions that optimize decision-making and create sustainable growth. Contact me to drive measurable growth and scale your business.
+Hi there! I am a data scientist with experience in machine learning, NLP, and predictive analytics. I have a proven track record of driving business outcomes in finance. I help businesses solve their challenges by delivering data-driven solutions that optimize decision-making and create sustainable growth. Kindly reach out to me to scale your business and drive measurable growth.
 
-## TRACK RECORD 🚀
+## WHAT I HAVE DONE 
 
 🌟 **Driving Revenue Growth**  
 Reactivated over **20,000** corporate accounts through advanced churn mitigation models, resulting in a **NGN 2.29 trillion increase** in customer deposits and driving sustainable business growth.
@@ -13,3 +12,30 @@ Developed a segmentation model targeting female SMEs, achieving a **1,428% growt
 
 🌟 **Delivering Scalable Solutions**  
 Designed and deployed the AI chatbot, reducing turnaround time for **2,000+ staff** and cutting operational expenses while improving internal efficiency and **customer satisfaction scores by 48%**.
+
+## MY PORTFOLIO 
+
+*A glimpse of some of the projects I've worked on.*
+
+**NLP Sentiment Analysis End-End Project**
+![image](1 anietie etuk data analytics car project.jpeg)
+
+Built a sentiment analysis solution using Flask to create a web API for real-time sentiment prediction and bulk analysis through CSV file uploads. This solution provides actionable insights into customer sentiment, enabling better understanding and improvement of business strategies.
+
+[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+
+**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+
+![image](2 anietie etuk data analytics sales project.jpg)
+
+On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
+
+[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+
+**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+
+![image](3 anietie etuk data analytics agro project.jpg)
+
+Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+
+<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
