@@ -36,4 +36,12 @@ Tools Used: MySQL database
 Trained a churn model using different ML and deep learning algorithms and deployed the most efficient based on evaluation criteria. 
 [Project Link](https://github.com/Premee12/Churn_project.git)
 
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
+## SKILLS 🛠️
+
+| Programming & Tools       | Data Platforms           | Analytics & Reporting  | Machine Learning       | Collaboration & More         |
+|----------------------------|--------------------------|-------------------------|-------------------------|-------------------------------|
+| Python (3 years)          | Google BigQuery         | Power BI               | Azure                  | Basic MLOps                  |
+| SQL                       | Azure Synapse           | MS Excel               | LLM                    | MongoDB                      |
+| Flask                     | MS SQL Server           | Tableau                | Scikit-learn           | Reporting & Documentation    |
+| PyTorch                   | MySQL                   | Microsoft 365          | Keras & TensorFlow     | Postman                      |
+| Git                       | PostgresSQL             | Microsoft Power Apps   | Data Wrangling         | Latex                         |
