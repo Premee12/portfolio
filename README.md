@@ -17,7 +17,7 @@ Designed and deployed the AI chatbot, reducing turnaround time for **2,000+ staf
 
 *A glimpse of some of the projects I've worked on.*
 
-**NLP Sentiment Analysis End-End Project**
+**Natural Language Processing End-End Project for Sentiment Analysis**
 ![image](image.png)
 
 Built a sentiment analysis solution using Flask to create a web API for real-time sentiment prediction and bulk analysis through CSV file uploads. This solution provides actionable insights into customer sentiment, enabling better understanding and improvement of business strategies.
