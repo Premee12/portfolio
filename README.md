@@ -5,10 +5,10 @@ Hi there! I am a data scientist with experience in machine learning, NLP, and pr
 ## WHAT I HAVE DONE 
 
 🌟 **Driving Revenue Growth**  
-Reactivated over **20,000** corporate accounts through advanced churn mitigation models, resulting in a **NGN 2.29 trillion increase** in customer deposits and driving sustainable business growth.
+Reactivated over **20,000** corporate accounts through advanced churn mitigation models, resulting in a [**NGN 2.29 trillion increase**](https://africanfinancials.com/document/ng-wemaba-2024-ir-q3/) in customer deposits and driving sustainable business growth.
 
 🌟 **Expanding Market Reach**  
-Developed a segmentation model targeting female SMEs, achieving a **1,428% growth in loans** and a **2,150% increase in transactions**, contributing to **NGN 1 trillion loan growth** and **61% of total interest income**.
+Developed a segmentation model targeting female SMEs, achieving a **1,428% growth in loans** and a [**NGN 1 trillion loan growth**](https://africanfinancials.com/document/ng-wemaba-2024-ir-q3/), contributing to [**61% of total interest income**](https://nairametrics.com/2024/07/31/wema-bank-plc-reports-270-71-growth-in-q2-2024-pre-tax-profit/).
 
 🌟 **Delivering Scalable Solutions**  
 Designed and deployed the AI chatbot, reducing turnaround time for **2,000+ staff** and cutting operational expenses while improving internal efficiency and **customer satisfaction scores by 48%**.
