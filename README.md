@@ -1,6 +1,6 @@
 # ABOUT ME
 
-Hi there! I am a data scientist with experience in machine learning, NLP, and predictive analytics. I have a proven track record of driving business outcomes in finance. I help businesses solve their challenges by delivering data-driven solutions that optimize decision-making and create sustainable growth. Kindly reach out to me to scale your business and drive measurable growth.
+Hi there! I am a data scientist with experience in machine learning, NLP, and predictive analytics. I have a proven track record of driving business outcomes in finance. I help businesses solve their challenges by delivering data-driven solutions that optimize decision-making and create sustainable growth. Could you contact me to scale your business and drive measurable growth?
 
 ## WHAT I HAVE DONE 
 
