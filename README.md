@@ -36,6 +36,11 @@ Key Tools: MySQL database
 Trained a churn model using different ML and deep learning algorithms and deployed the most efficient based on evaluation criteria. 
 *[Project Link](https://github.com/Premee12/Churn_project.git)*
 
+R Programming for Data Mining and Prediction
+ Analysed customer behavior and built models to make predictions. The project was deployed on GitHub using Shiny for an interactive interface.
+ *[Project Link](https://github.com/Premee12/R-Project.git)*
+
+
 ## SKILLS 🛠️
 
 | Programming & Tools       | Data Platforms           | Analytics & Reporting  | Machine Learning       | Collaboration & More         |
